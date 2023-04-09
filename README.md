@@ -13,6 +13,7 @@
 
 ### BLIP-2
 <img width="600" alt="drawing" src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/model_doc/blip2_architecture.jpg">
+
 #### pretrained models(Colab) : blip2-flan-t5-xl
 
 #### pretrained models(Kaggle) : blip2-opt-2.7b  - limited RAM capacity
