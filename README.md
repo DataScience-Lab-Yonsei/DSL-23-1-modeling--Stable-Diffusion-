@@ -39,6 +39,8 @@ tokenizer = open_clip.get_tokenizer('ViT-H-14')
 
 ### Results
 
+<img src="https://storage.googleapis.com/kagglesdsdata/competitions/45917/5024308/images/20057f34d.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&amp;X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20230408%2Fauto%2Fstorage%2Fgoog4_request&amp;X-Goog-Date=20230408T053600Z&amp;X-Goog-Expires=345600&amp;X-Goog-SignedHeaders=host&amp;X-Goog-Signature=875160a856008817f13d90d142021b9c7f092b775b5810c069c44b2a66dcea5ea45eccd282c3794f23386ae068cce78a8f653183cf7c435873f396bf7940a217a60b5488cf1caa1773a13195f8670c4d5cf0d61364656b6a6d105ee2e631eecb71c39c39d9242eef06fc40ab1dca73b7e9d7a7d40e1369c1b6a76ea8ce1b1c32ab5f63377e1000f16e59294b4358ee828fbac7d80d0c66ac125df56ed6a202070a5d394001dff9ba4e6a0d7e5b702db28e35eb485b5bfccfb3acd03564cadbc05f1485a9d07d18358074ef2ab0a518d3f25c933ab7ae0a2cb95e4ee624744aab37c264d862009b96f581f858b908f769860b8670bd175dfcad3ddd77722b45d1" data-testid="preview-image" class="sc-cQJIMN cyEnMY">
+
 
 ## File Description
 
